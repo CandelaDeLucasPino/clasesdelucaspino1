@@ -190,6 +190,8 @@ footer{
     font-family: 'VT323', monospace;
     font-size: 80px;
     margin: 50px;
+    margin-top: 80px;
+
 }
 .formulario{
     height: 90%;
